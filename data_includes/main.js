@@ -85,8 +85,8 @@ Template( "practice.csv" ,
         getText("mask").remove()
         ,
         // Prime, shown on screen for 42ms
-        newController("DashedSentence", {s: row.sentence, mode: "speeded acceptability", 
-            display: "in place", wordTime: 190, wordPauseTime: 390})
+        newController("DashedSentence", {s: row.sentence, mode: "speeded acceptability","speed": row.speed,
+            display: "in place", wordTime: 150, wordPauseTime: 200})
         .print("center at 50vw","middle at 50vh")
         .cssContainer({"font-size": "300%",        })
         .log()
@@ -123,6 +123,7 @@ Template( "practice.csv" ,
     .log( "Plausibility", row.plausibility ) // Append prime type (rel. vs unr.) to each result line
     .log( "Item", row.item)
     .log( "Sentence", row.sentence)
+    .log("Speed", row.speed)
 )
 
 
@@ -151,7 +152,7 @@ Template( "latinlist.csv" ,
         ,
         // Prime, shown on screen for 42ms
         newController("DashedSentence", {s: row.sentence, mode: "speeded acceptability", speed: row.speed,
-            display: "in place", wordTime: 190, wordPauseTime: 390})
+            display: "in place", wordTime: 150, wordPauseTime: 200})
         .print("center at 50vw","middle at 50vh")
         .cssContainer({"font-size": "300%",        })
         .log()
