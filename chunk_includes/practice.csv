@@ -1,0 +1,6 @@
+item	type	plausibility	expected	sentence	explain	
+1	practice	plaus	f	The hearty meal was devoured by a boy.	This sentence is both grammatical and plausible	 and therefore likely to be conveyed.
+2	practice	implaus	j	The hearty meal was devouring by a boy.	The subject (hearty meal) is unlikely to take the action (devour).	
+3	practice	plaus	f	Annie gave the apple to her mother.	Annie is unlikely to offer her mother to an inanimate object (apple).	
+4	practice	implaus	j	Annie gave the apple her mother.	It is plausible that Annie gave a fruit apple to her mother.	
+5	practice	implaus	j	Why did Little Red Cap visit her grandfather?	Little Red Cap visited her grandmother instead of her grandfather.	
