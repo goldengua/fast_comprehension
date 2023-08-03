@@ -1,0 +1,217 @@
+group,item,type,plausibility,expected,sentence,length
+A,1,Inversion,implaus,j,The sister mailed the letter the niece.,7
+B,1,Inversion,plaus,f,The sister mailed the niece the letter.,7
+A,2,Inversion,implaus,j,The mother gave the candle the daughter.,7
+B,2,Inversion,plaus,f,The mother gave the daughter the candle.,7
+A,3,Inversion,implaus,j,The uncle sold the truck the father.,7
+B,3,Inversion,plaus,f,The uncle sold the father the truck.,7
+A,4,Inversion,implaus,j,The contractor lent the saw the homeowner.,7
+B,4,Inversion,plaus,f,The contractor lent the homeowner the saw.,7
+A,5,Inversion,implaus,j,The sailing club leased the boat the man.,8
+B,5,Inversion,plaus,f,The sailing club leased the man the boat.,8
+A,6,Inversion,implaus,j,The girl tossed the apple the boy.,7
+B,6,Inversion,plaus,f,The girl tossed the boy the apple.,7
+B,7,Inversion,implaus,j,The daughter passed the mother to the bowl.,8
+A,7,Inversion,plaus,f,The daughter passed the bowl to the mother.,8
+B,8,Inversion,implaus,j,The scuba instructor rented the tourist to the equipment.,9
+A,8,Inversion,plaus,f,The scuba instructor rented the equipment to the tourist.,9
+B,9,Inversion,implaus,j,The boy handed the girl to the pencil.,8
+A,9,Inversion,plaus,f,The boy handed the pencil to the girl.,8
+B,10,Inversion,implaus,j,The nanny threw the child to the toy.,8
+A,10,Inversion,plaus,f,The nanny threw the toy to the child.,8
+B,11,Inversion,implaus,j,The nephew mailed the aunt to the postcard.,8
+A,11,Inversion,plaus,f,The nephew mailed the postcard to the aunt.,8
+B,12,Inversion,implaus,j,The father gave the son to the car.,8
+A,12,Inversion,plaus,f,The father gave the car to the son.,8
+A,1,agreement_attraction,implaus,j,The waitress who sat the girls unsurprisingly were unhappy about all the noise.,13
+B,1,agreement_attraction,plaus,f,The waitresses who sat the girls unsurprisingly were unhappy about all the noise.,13
+A,2,agreement_attraction,implaus,j,The dog that dug the holes unfortunately were covered in mud all over.,13
+B,2,agreement_attraction,plaus,f,The dogs that dug the holes unfortunately were covered in mud all over.,13
+A,3,agreement_attraction,implaus,j,The boy who played the games apparently were more competitive than ever before.,13
+B,3,agreement_attraction,plaus,f,The boys who played the games apparently were more competitive than ever before.,13
+A,4,agreement_attraction,implaus,j,The mom who drove the kids unsurprisingly were tired of the bickering in the car.,15
+B,4,agreement_attraction,plaus,f,The moms who drove the kids unsurprisingly were tired of the bickering in the car.,15
+A,5,agreement_attraction,implaus,j,The kid who hid the toys definitely were in a lot of trouble.,13
+B,5,agreement_attraction,plaus,f,The kids who hid the toys definitely were in a lot of trouble.,13
+A,6,agreement_attraction,implaus,j,The policeman who patrolled the neighborhoods evidently were mentioned in the newspaper.,12
+B,6,agreement_attraction,plaus,f,The policemen who patrolled the neighborhoods evidently were mentioned in the newspaper.,12
+B,7,agreement_attraction,implaus,j,The goat who ate the cans evidently were seen on the side of the road.,15
+A,7,agreement_attraction,plaus,f,The goats who ate the cans evidently were seen on the side of the road.,15
+B,8,agreement_attraction,implaus,j,The scientist who prepared the experiments suddenly were scared about all the consequences.,13
+A,8,agreement_attraction,plaus,f,The scientists who prepared the experiments suddenly were scared about all the consequences.,13
+B,9,agreement_attraction,implaus,j,The student who wrote the professors likely were concerned about her low grade.,13
+A,9,agreement_attraction,plaus,f,The students who wrote the professors likely were concerned about her low grade.,13
+B,10,agreement_attraction,implaus,j,The journalist who read the reports apparently were investigated for fraudulent investigative journalism.,13
+A,10,agreement_attraction,plaus,f,The journalists who read the reports apparently were investigated for fraudulent investigative journalism.,13
+B,11,agreement_attraction,implaus,j,The woman who walked the dogs clearly were happy about the cross-country road trip.,14
+A,11,agreement_attraction,plaus,f,The women who walked the dogs clearly were happy about the cross-country road trip.,14
+B,12,agreement_attraction,implaus,j,The nurse who called the doctors unsurprisingly were excited about the good news.,13
+A,12,agreement_attraction,plaus,f,The nurses who called the doctors unsurprisingly were excited about the good news.,13
+A,1,comparative,plaus,f,More relatives went to my birthday party than friends did because my parents invited everyone that they knew.,18
+B,1,comparative,implaus,j,More relatives went to my birthday party than my friend did because my parents invited everyone that they knew.,19
+A,2,comparative,plaus,f,More financial analysts graduated from Harvard's business school than managers did even though our company is close to Boston.,19
+B,2,comparative,implaus,j,More financial analysts graduated from Harvard's business school than our manager did even though our company is close to Boston. ,20
+A,3,comparative,plaus,f,"Last fall, more engineers relocated to San Francisco than accountants did in order to work in our corporate offices. ",19
+B,3,comparative,implaus,j,"Last fall, more engineers relocated to San Francisco than our accountant did in order to work in our corporate offices. ",20
+A,4,comparative,plaus,f,Last spring more ducks hatched from eggs than chickens did due to the declining population of local predators. ,18
+B,4,comparative,implaus,j,Last spring more ducks hatched from eggs than my chicken did due to the declining population of local predators.,19
+A,5,comparative,plaus,f,More businesses were demolished for the new rail system than houses were but the city compensated residents for all disturbances.,20
+B,5,comparative,implaus,j,More businesses were demolished for the new rail system than my house was but the city compensated residents for all disturbances. ,21
+A,6,comparative,plaus,f,More businesses in our town burned down in the fire than schools did and the local residents all bought homeowners insurance.,21
+B,6,comparative,implaus,j,More businesses in our town burned down in the fire than our school did and the local residents all bought homeowners insurance. ,22
+B,7,comparative,plaus,f,More strawberry plants were ruined during the drought than geraniums were because geraniums generally need much less water.,18
+A,7,comparative,implaus,j,More strawberry plants were ruined during the drought than my geranium was because geraniums generally need much less water. ,19
+B,8,comparative,plaus,f,More married couples bought their first house in the suburbs than bachelors did since the school districts are so much better.,21
+A,8,comparative,implaus,j,More married couples bought their first house in the suburbs than the bachelor did since the school districts are so much better. ,22
+B,9,comparative,plaus,f,As many accountants at the firm went bald in their fifties as lawyers did in response to the stress and long hours.,22
+A,9,comparative,implaus,j,As many accountants at the firm went bald in their fifties as my lawyer did in response to the stress and long hours.,23
+B,10,comparative,plaus,f,More actors were cast in the director's new movie than actresses were since the actors would work for less money. ,20
+A,10,comparative,implaus,j,More actors were cast in the director's new movie than the actress was since the actors would work for less money.,21
+B,11,comparative,plaus,f,More guitar players went deaf from performing live shows than pop stars did since pop stars primarily work in the studio.,21
+A,11,comparative,implaus,j,More guitar players went deaf from performing live shows than the pop star did since pop stars primarily work in the studio.,22
+B,12,comparative,plaus,f,As many aunts attended Jane's wedding as uncles did since Jane made sure everyone would be available. ,17
+A,12,comparative,implaus,j,As many aunts attended Jane's wedding as my uncle did since Jane made sure everyone would be available. ,18
+A,1,depth_charge,plaus,f,"In Maria's class, no test is so difficult that she would fail it.",13
+B,1,depth_charge,implaus,j,"In Maria's class, no test is too difficult to fail.",10
+A,2,depth_charge,plaus,f,"In Laura's opinion, no relationship is so volatile that she would fail it.",13
+B,2,depth_charge,implaus,j,"In Laura's opinion, no relationship is too volatile to fail.",10
+A,3,depth_charge,plaus,f,"According to Mark, no drug is so dangerous that he would ban it.",13
+B,3,depth_charge,implaus,j,"According to Mark, no drug is too dangerous to ban.",10
+A,4,depth_charge,plaus,f,"Considering John's finances, no offer is so low that he would reject it.",13
+B,4,depth_charge,implaus,j,"Considering John's finances, no offer is too low to reject.",10
+A,5,depth_charge,plaus,f,"In Gideon's opinion, no habit is so annoying that he would discourage it.",13
+B,5,depth_charge,implaus,j,"In Gideon's opinion, no habit is too annoying to discourage.",10
+A,6,depth_charge,plaus,f,"According to the geologist, no data is so complicated that she would misinterpret it.",14
+B,6,depth_charge,implaus,j,"According to the geologist, no data is too complicated to misinterpret.",11
+B,7,depth_charge,plaus,f,"According to the politician, no social program is so wasteful that he would oppose it.",15
+A,7,depth_charge,implaus,j,"According to the politician, no social program is too wasteful to oppose.",12
+B,8,depth_charge,plaus,f,"For someone like Alex, no memory is so distant that he would forget it.",14
+A,8,depth_charge,implaus,j,"For someone like Alex, no memory is too distant to forget.",11
+B,9,depth_charge,plaus,f,"When it comes to Sharon's friends, no event is so inconvenient that she would skip it.",16
+A,9,depth_charge,implaus,j,"When it comes to Sharon's friends, no event is too inconvenient to skip.",13
+B,10,depth_charge,plaus,f,"During Kipp's presidential campaign, no rumor was so outlandish that he would deny it.",14
+A,10,depth_charge,implaus,j,"During Kipp's presidential campaign, no rumor was too outlandish to deny.",11
+B,11,depth_charge,plaus,f,"According to the movie producer, no criticism is so trivial that he would ignore it.",15
+A,11,depth_charge,implaus,j,"According to the movie producer, no criticism is too trivial to ignore.",12
+B,12,depth_charge,plaus,f,"Judging by Tom's work, no error is so small that he would overlook it.",14
+A,12,depth_charge,implaus,j,"Judging by Tom's work, no error is too small to overlook.",11
+A,1,missing_VP,plaus,f,The ancient manuscript that the grad student who the new card catalog had confused a great deal was studying in the library was missing a page.,26
+B,1,missing_VP,implaus,j,The ancient manuscript that the grad student who the new card catalog had confused a great deal was missing a page.,21
+A,2,missing_VP,plaus,f,The lullaby that the famous country singer who the record label had signed to a big contract was singing yesterday was written seventy years ago.,25
+B,2,missing_VP,implaus,j,The lullaby that the famous country singer who the record label had signed to a big contract was written seventy years ago.,22
+A,3,missing_VP,plaus,f,The picture that the artist who the school had expelled for cheating was hurriedly copying was printed in a magazine. ,20
+B,3,missing_VP,implaus,j,The picture that the artist who the school had expelled for cheating was printed in a magazine.,17
+A,4,missing_VP,plaus,f,The trophy that the athlete who the restaurant had hired as a spokesman had won at the track meet was stolen later.,22
+B,4,missing_VP,implaus,j,The trophy that the athlete who the restaurant had hired as a spokesman was stolen later.,16
+A,5,missing_VP,plaus,f,The apartment that the maid who the service had sent over was cleaning every week was well decorated. ,18
+B,5,missing_VP,implaus,j,The apartment that the maid who the service had sent over was well decorated.,14
+A,6,missing_VP,plaus,f,The shirt that the seamstress who the immigration officer had investigated last week was carefully mending needed to be dry cleaned.,21
+B,6,missing_VP,implaus,j,The shirt that the seamstress who the immigration officer had investigated last week needed to be dry cleaned.,18
+B,7,missing_VP,plaus,f,The lecture that the professor who the newspaper story had just profiled in detail was teaching poorly was not well attended.,21
+A,7,missing_VP,implaus,j,The lecture that the professor who the newspaper story had just profiled in detail was not well attended.,18
+B,8,missing_VP,plaus,f,The novel that the horror author who the publishing company had recently fired had typed quickly was banned by the local library.,22
+A,8,missing_VP,implaus,j,The novel that the horror author who the publishing company had recently fired was banned by the local library.,19
+B,9,missing_VP,plaus,f,The prayer that the monk who the religious fanatic had persecuted relentlessly was chanting every day was echoing in the empty church.,22
+A,9,missing_VP,implaus,j,The prayer that the monk who the religious fanatic had persecuted relentlessly was echoing in the empty church.,18
+B,10,missing_VP,plaus,f,The monologue that the actor who the movie industry had snubbed repeatedly was performing last month was extremely well written.,20
+A,10,missing_VP,implaus,j,The monologue that the actor who the movie industry had snubbed repeatedly was extremely well written. ,16
+B,11,missing_VP,plaus,f,The carpenter who the craftsman that the peasant carried hurt supervised the apprentice. ,13
+A,11,missing_VP,implaus,j,The carpenter who the craftsman that the peasant carried supervised the apprentice.,12
+B,12,missing_VP,plaus,f,The mother who the daughter that the sister found frightened greeted the grandmother.,13
+A,12,missing_VP,implaus,j,The mother who the daughter that the sister found greeted the grandmother.,12
+A,1,NPI,implaus,j,The authors that no critics recommended have ever received ackowledgment for a best-selling novel.,14
+B,1,NPI,plaus,f,No authors that the critics recommended have ever received acknowledgment for a best-selling novel.,14
+A,2,NPI,implaus,j,The painters that no critics liked have ever created beautiful art.,11
+B,2,NPI,plaus,f,No painters that the critics liked had ever created beautiful art.,11
+A,3,NPI,implaus,j,The ambassadors that no diplomats consulted have ever seen the brutality of war.,13
+B,3,NPI,plaus,f,No ambassadors that the diplomats consulted had ever seen the brutality of war.,13
+A,4,NPI,implaus,j,The babysitters that no children disobeyed have ever requested a tip.,11
+B,4,NPI,plaus,f,No babysitters that the children disobeyed had ever requested a tip.,11
+A,5,NPI,implaus,j,The customers that no salesmen assisted had ever complained to the manager.,12
+B,5,NPI,plaus,f,No customers that the salesmen assisted had ever complained to the manager.,12
+A,6,NPI,implaus,j,The actresses that no directors favored had ever demonstrated true talent.,11
+B,6,NPI,plaus,f,No actresses that the directors favored had ever demonstrated true talent.,11
+B,7,NPI,implaus,j,The athletes that no competitors defeated had ever shown good sportsmanship.,11
+A,7,NPI,plaus,f,No athletes that the competitors defeated had ever shown good sportsmanship.,11
+B,8,NPI,implaus,j,The lawyers that no businessmen hired had ever fabricated evidence.,10
+A,8,NPI,plaus,f,No lawyers that the businessmen hired had ever fabricated evidence.,10
+B,9,NPI,implaus,j,The students that no teachers punished had ever caused a disruption.,11
+A,9,NPI,plaus,f,No students that the teachers punished had ever caused a disruption.,11
+B,10,NPI,implaus,j,The employees that no managers promoted had ever publicly ridiculed the company.,12
+A,10,NPI,plaus,f,No employees that the managers promoted had ever publicly ridiculed the company.,12
+B,11,NPI,implaus,j,The accountants that no clients criticized had ever mismanaged funds.,10
+A,11,NPI,plaus,f,No accountants that the clients criticized had ever mismanaged funds.,10
+B,12,NPI,implaus,j,The teachers that no parents appreciated had ever caused problems.,10
+A,12,NPI,plaus,f,No teachers that the parents appreciated had ever caused problems.,10
+A,1,moose,implaus,j,"After the spinning wheel pricked her, for how many years did Cinderella sleep before she was awak- ened by the kiss of a prince? ",24
+B,1,moose,plaus,f,"After the spinning wheel pricked her, for how many years did Sleeping Beauty sleep before she was awakened by the kiss of a prince?",24
+A,2,moose,implaus,j,An airplane crashes on the boundary of two countries. Where should the survivors be buried?,15
+B,2,moose,plaus,f,An airplane crashes on the boundary of two countries. Where should the dead be buried? ,15
+A,3,moose,implaus,j,"In the fairy tale of Red Riding Hood, who did the fox dress up as with the intention to eat her?",21
+B,3,moose,plaus,f,"In the fairy tale of Red Riding Hood, who did the wolf dress up as with the intention to eat her?",21
+A,4,moose,implaus,j,By how many imps was Snow White helped before the prince came to her? ,14
+B,4,moose,plaus,f,By how many dwarves was Snow White helped before the prince came to her? ,14
+A,5,moose,implaus,j,How many stars are in the upper left corner of the Canadian flag? ,13
+B,5,moose,plaus,f,How many stars are in the upper left corner of the American flag?,13
+A,6,moose,implaus,j,What aspect of the Mona Lisa by the Italian painter Michelangelo made the painting famous?,15
+B,6,moose,plaus,f,What aspect of the Mona Lisa by the Italian painter Da Vinci made the painting famous?,16
+B,7,moose,implaus,j,Painter Vincent van Gogh lose his eye during his life.,10
+A,7,moose,plaus,f,Painter Vincent van Gogh lose his ear during his life?,10
+B,8,moose,implaus,j,"JK Rowling, the author of the well-known Lord of the Rings books, originates from UK.",15
+A,8,moose,plaus,f,"JK Rowling, the author of the well-known Harry Potter books, originates from UK.",13
+B,9,moose,implaus,j,Moses took seven animals of each kind on the Ark.,10
+A,9,moose,plaus,f,Noah took seven animals of each kind on the Ark.,10
+B,10,moose,implaus,j,Halloween is the name of the holiday during which children dress up and walk from door to door to give candy.,21
+A,10,moose,plaus,f,Halloween is the name of the holiday during which children dress up and walk from door to door to collect candy.,21
+B,11,moose,implaus,j,Apple sells many iPhone computers every year.,7
+A,11,moose,plaus,f,Apple sells many iPhone cell phones every year.,8
+B,12,moose,implaus,j,"Thomas Edison, the inventor of the telephone, was an American.",10
+A,12,moose,plaus,f,"Alexander Bell, the inventor of the telephone, was an American.",10
+A,1,filler,plaus,f,The cotton clothing is made of grows in Mississippi.,9
+A,2,filler,plaus,f,The sour drink from the ocean.,6
+A,3,filler,plaus,f,Have the students who failed the exam take the supplementary.,10
+A,4,filler,plaus,f,The florist sent the flowers was pleased.,7
+A,5,filler,plaus,f,The man who hunts ducks out on weekends.,8
+A,6,filler,plaus,f,The raft floated down the river sank.,7
+A,7,filler,plaus,f,When Fred eats food gets thrown.,6
+A,8,filler,plaus,f,Helen is expecting tomorrow to be a bad day.,9
+A,9,filler,plaus,f,I know the words to that song about the queen don't rhyme.,12
+A,10,filler,plaus,f,She told me a little white lie will come back to haunt me.,13
+A,11,filler,plaus,f,The dog that I had really loved bones.,8
+A,12,filler,plaus,f,That Jill is never here hurts.,6
+A,13,filler,plaus,f,Someone who has fought in a war is a veteran.,10
+A,14,filler,plaus,f,The woman brought her sick pet dog to a veterinarian.,10
+A,15,filler,plaus,f,The vintage wedding dress was big and required an alteration.,10
+A,16,filler,plaus,f,Mediators prevented the dispute from escalating into a violent altercation.,10
+A,17,filler,plaus,f,The storyteller could turn any incident into an amusing anecdote.,10
+A,18,filler,plaus,f,She saved him from the poison by administering an antidote.,10
+A,19,filler,plaus,f,Clownfish have evolved invulnerability to the poison tentacles of anemones.,10
+A,20,filler,plaus,f,The upscale apartment was complete with all these modern amenities.,10
+A,21,filler,plaus,f,The flooded river fertilized the fields with a rich sediment.,10
+A,22,filler,plaus,f,Political corruption and economic hardship fueled a growing anti-government sentiment.,10
+A,23,filler,plaus,f,Up on the tree branch perched a bright red cardinal.,10
+A,24,filler,plaus,f,There is a beanbag toss game booth at this carnival.,10
+B,1,filler,plaus,f,The cotton clothing is made of grows in Mississippi.,9
+B,2,filler,plaus,f,The sour drink from the ocean.,6
+B,3,filler,plaus,f,Have the students who failed the exam take the supplementary.,10
+B,4,filler,plaus,f,The florist sent the flowers was pleased.,7
+B,5,filler,plaus,f,The man who hunts ducks out on weekends.,8
+B,6,filler,plaus,f,The raft floated down the river sank.,7
+B,7,filler,plaus,f,When Fred eats food gets thrown.,6
+B,8,filler,plaus,f,Helen is expecting tomorrow to be a bad day.,9
+B,9,filler,plaus,f,I know the words to that song about the queen don’t rhyme.,12
+B,10,filler,plaus,f,She told me a little white lie will come back to haunt me.,13
+B,11,filler,plaus,f,The dog that I had really loved bones.,8
+B,12,filler,plaus,f,That Jill is never here hurts.,6
+B,13,filler,plaus,f,Someone who has fought in a war is a veteran.,10
+B,14,filler,plaus,f,The woman brought her sick pet dog to a veterinarian.,10
+B,15,filler,plaus,f,The vintage wedding dress was big and required an alteration.,10
+B,16,filler,plaus,f,Mediators prevented the dispute from escalating into a violent altercation.,10
+B,17,filler,plaus,f,The storyteller could turn any incident into an amusing anecdote.,10
+B,18,filler,plaus,f,She saved him from the poison by administering an antidote.,10
+B,19,filler,plaus,f,Clownfish have evolved invulnerability to the poison tentacles of anemones.,10
+B,20,filler,plaus,f,The upscale apartment was complete with all these modern amenities.,10
+B,21,filler,plaus,f,The flooded river fertilized the fields with a rich sediment.,10
+B,22,filler,plaus,f,Political corruption and economic hardship fueled a growing anti-government sentiment.,10
+B,23,filler,plaus,f,Up on the tree branch perched a bright red cardinal.,10
+B,24,filler,plaus,f,There is a beanbag toss game booth at this carnival.,10
