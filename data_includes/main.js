@@ -40,11 +40,9 @@ newTrial( "welcome" ,
     ,
     newText("Welcome!")
     ,
-    newText("In this experiment you will evaluate sentences.")
+    newText("In this experiment you will see some sentences.")
     ,
-    newText("Some sentences might be produced wrongly.")
-    ,
-    newText("You are asked to decide whether the sentence is consistent with a speaker's intended meaning.")
+    newText("You are asked to decide if the sentence looks correct.")
     ,
     newText("The evaluation should focus on two aspects:")
     ,
@@ -94,7 +92,7 @@ Template( "practice.csv" ,
         .remove()
         ,
         // Target, shown on screen until F or J is pressed
-        newText("target","Do you think this is what the speaker meant?")
+        newText("target","Is this sentence correct?")
         ,
         // Use a tooltip to give instructions
         newTooltip("guide", "Now press F if this sounds right, J otherwise")
@@ -160,7 +158,7 @@ Template( "latinlist.csv" ,
         .remove()
         ,
         // Target, shown on screen until F or J is pressed
-        newText("target","Do you think this is what the speaker meant?")
+        newText("target","Is this sentence correct?")
         ,
         // Use a tooltip to give instructions
         newTooltip("guide", "Now press F if this sounds right, J otherwise")
