@@ -151,7 +151,7 @@ Template( "latinlist.csv" ,
         ,
         // Prime, shown on screen for 42ms
         newController("DashedSentence", {s: row.sentence, mode: "speeded acceptability", speed: row.speed,
-            display: "in place", wordTime: 190+390, wordPauseTime: 190+390})
+            display: "in place", wordTime: 190+390, wordPauseTime: 390})
         .print("center at 50vw","middle at 50vh")
         .cssContainer({"font-size": "300%",        })
         .log()
