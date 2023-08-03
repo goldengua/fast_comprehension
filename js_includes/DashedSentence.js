@@ -152,7 +152,7 @@ jqueryWidget: {
                 t.showWord(t.currentWord);
                 t.utils.clearTimeout(wordPauseTimeout);
                 let duration = t.wordTime;
-                var extraTime = (t.words[t.currentWord].length) * 20 + (t.words[t.currentWord].length) * 50 * (t.speed - 1);
+                var extraTime = (t.words[t.currentWord].length) * 20 + 100 * (t.speed - 1);
                 duration += extraTime;
                 t.utils.setTimeout(wordTimeout, duration);
             }
